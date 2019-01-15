@@ -1,1 +1,1 @@
-# word_recognition_images
+# droOs object detection raspi v1
